@@ -1,0 +1,19 @@
+.next_prev_buttons_wrapper {
+  position: relative;
+  height: 40px;
+}
+
+.next_prev_buttons {
+  position: absolute;
+  background: #05b0af;
+
+  border: none;
+}
+
+.prev {
+  left: 0px;
+}
+
+.next {
+  left: 90px;
+}

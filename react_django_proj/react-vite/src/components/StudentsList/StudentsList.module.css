@@ -1,0 +1,20 @@
+.td_font {
+  font-size: 18px;
+}
+
+.numberOfStudents {
+  background-color: #073427;
+  color: azure;
+  position: relative;
+  padding: 1px;
+  width: fit-content;
+  height: 25px;
+  font-size: 14px;
+}
+
+.studentsPerPageButtonsWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  gap: 5px;
+}
